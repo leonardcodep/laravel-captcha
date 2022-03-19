@@ -6,7 +6,7 @@
         "laravel captcha"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/mehedi/laravel-captcha",
+    "homepage": "https://github.com/leonardcodep/laravel-captcha",
     "authors": [
         {
             "name": "Dmitriy Igoshev",
@@ -18,8 +18,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/mehedi/laravel-captcha/issues",
-        "source": "https://github.com/mehedi/laravel-captcha"
+        "issues": "https://github.com/leonardcodep/laravel-captcha/issues",
+        "source": "https://github.com/leonardcodep/laravel-captcha"
     },
     "require": {
         "php": ">=7.2.0",
